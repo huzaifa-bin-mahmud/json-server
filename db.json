@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "huzaifa",
+      "gender": "male",
+      "hometown": "naogaon",
+      "id": "a54_ompImJo"
+    },
+    {
+      "name": "nafisa",
+      "gender": "female",
+      "hometown": "dhaka",
+      "id": "Z-Z8dyXZ1uA"
+    },
+    {
+      "name": "sabbir",
+      "gender": "male",
+      "hometown": "dhaka",
+      "id": "oP7l8egMJjY"
+    },
+    {
+      "name": "niloy",
+      "gender": "male",
+      "hometown": "dhaka",
+      "id": "giNo01HRqq8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
